@@ -1,0 +1,5 @@
+- [ ] Atualizar `ProjectShowcase.tsx`: Alterar badge de "Em Construção" para "Recém-Inaugurado"
+- [ ] Atualizar `ProjectShowcase.tsx`: Ajustar textos que falam sobre futuro para presente ("O Novo Ícone" -> "O Ícone de Santa Catarina")
+- [ ] Atualizar `MarketReport.tsx`: Atualizar dados da projeção de turismo para refletir a inauguração em 2025/2026 como fato consolidado
+- [ ] Atualizar `FeaturesSection.tsx`: Ajustar descrições para tempo presente onde aplicável
+- [ ] Verificar e ajustar outros textos que mencionem "futuro" ou "em breve" para refletir a realidade atual
